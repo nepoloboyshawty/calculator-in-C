@@ -11,7 +11,7 @@ Created in memory of my passed-away little bird.
 - Multiplication (`*`)
 - Division (`/`)
 
-## How to Run
+## How to Build a Project on Linux
 
 1. Clone the repository:
 
@@ -30,8 +30,33 @@ make
 ```
 
 3. Run the program:
+
 ```bash
 ./calculator
+```
+
+## How to build a project on Windows
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/nepoloboyshawty/calculator-in-C.git
+cd calculator-in-C
+```
+or download from GitHub by clicking "Code" -> "Download ZIP".
+
+2. Run the commands:
+```bash
+mkdir build
+cd build
+cmake .. -G "MinGW Makefiles"
+mingw32-make
+```
+
+3. Run the program:
+
+```bash
+./calculator.exe
 ```
 
 ## Interface Example
