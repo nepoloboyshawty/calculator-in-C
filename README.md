@@ -18,7 +18,7 @@ Created in memory of my passed-away little bird 🕊️.
 ```bash
 git clone https://github.com/nepoloboyshawty/calculator-in-C.git
 cd calculator-in-C
-
+```
 2. Compile the code:
 
 gcc calculator.c -o calculator
