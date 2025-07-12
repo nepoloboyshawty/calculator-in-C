@@ -20,10 +20,13 @@ git clone https://github.com/nepoloboyshawty/calculator-in-C.git
 cd calculator-in-C
 ```
 
-2. Compile the code:
+2. Run the commands:
 
 ```bash
-gcc calculator.c -o calculator
+mkdir build
+cd build
+cmake ..
+make
 ```
 
 3. Run the program:
