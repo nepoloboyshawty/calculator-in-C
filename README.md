@@ -1,4 +1,4 @@
-# Calculator by nepoloboyshawty 🧮
+# Calculator by nepoloboyshawty
 
 A terminal-based calculator written in C.  
 Performs basic arithmetic operations: addition, subtraction, multiplication, and division.  
@@ -28,5 +28,7 @@ gcc calculator.c -o calculator
 ```bash
 ./calculator
 ```
+
+## Interface Example
 
 ![Interface Example](https://i.postimg.cc/3wxpD5wJ/2025-07-12-10-43-27.png)
