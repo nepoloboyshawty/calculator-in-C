@@ -21,10 +21,12 @@ cd calculator-in-C
 ```
 2. Compile the code:
 
+```bash
 gcc calculator.c -o calculator
-
+```
 3. Run the program:
-
+```bash
 ./calculator
+```
 
 ![Interface Example](https://i.postimg.cc/3wxpD5wJ/2025-07-12-10-43-27.png)
