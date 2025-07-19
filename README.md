@@ -4,13 +4,6 @@ A terminal-based calculator written in C.
 Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 Created in memory of my passed-away little bird.
 
-## Features
-
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`*`)
-- Division (`/`)
-
 ## How to Build a Project on Linux
 
 1. Clone the repository:
